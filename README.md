@@ -4,6 +4,8 @@
 
 ## Stanley Zheng
 
+*Don't give up on what you have until it's too late*
+
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-R-165caa?style=flat-square&logo=R&logoColor=fff)
 
