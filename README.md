@@ -12,9 +12,9 @@
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=fff)
 
-I am an open-source enthusiast and an aspiring freelance machine learning engineer. While at school, I focused on topics that live in the intersection of machine learning and other technologies.
+I am an open-source enthusiast and an aspiring freelance machine learning engineer. While at school, I enjoy learning about topics that machine learning can be applied to in a meaningful way. 
 
-Outside of school, I enjoy participating in Kaggle competitions, hackathons, and learning more about machine learning.
+Outside of school, I enjoy participating in Kaggle competitions, hackathons, and learning more about machine learning through MOOC's and conferences.
 
 ## Get in touch
 
