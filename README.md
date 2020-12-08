@@ -22,4 +22,4 @@ Outside of school, I enjoy participating in Kaggle competitions, hackathons, and
 [![](https://img.shields.io/badge/-Stanley_Zheng-D44638?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:stanleyjzheng@gmail.com)
 [![](https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/stanleyjzheng/)
 [![](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=fff)](https://www.kaggle.com/stanleyjzheng)
-[![](https://img.shields.io/badge/-Devpost-003e54?style=flat-square&logo=Devpost&logoColor=fff)](https://devpost.com/Stanley-Zheng)
+[![](https://img.shields.io/badge/-Devpost-003e54?style=flat-square&logo=Devpost&logoColor=fff)](https://devpost.com/StanleyjZheng)
