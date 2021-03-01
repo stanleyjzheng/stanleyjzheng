@@ -18,9 +18,10 @@ I am an open-source enthusiast and an aspiring machine learning engineer/data sc
 Outside of school, I enjoy participating in Kaggle competitions, hackathons, and learning more about machine learning through MOOC's and conferences.
 
 Hackathons:
-- [Sigmoid Hacks](https://devpost.com/software/pulse-it)(First place, best neural networks from scratch)
-- [University of British Columbia HackCamp](https://devpost.com/software/drought-watch)(Teck sponsored best enviromental hack)
-- [Ignitionhacks](https://devpost.com/software/project-sigma-submission-nlp)(First place overall)
+- [University of Toronto Hacks](https://devpost.com/software/stegano-end-to-end-steganlaysis-tool) (Fifth place, 1517fund Grantee)
+- [Sigmoid Hacks](https://devpost.com/software/pulse-it) (First place, best neural networks from scratch)
+- [University of British Columbia HackCamp](https://devpost.com/software/drought-watch) (Teck Resources best enviromental hack)
+- [Ignitionhacks](https://devpost.com/software/project-sigma-submission-nlp) (First place overall)
 
 ## Get in touch
 
