@@ -19,6 +19,7 @@ Outside of school, I enjoy participating in Kaggle competitions, hackathons, and
 [Here](https://www.youtube.com/watch?v=c8uWUOSGYUI) is my talk at PyData Boston-Cambridge and its accompanying [code](https://github.com/stanleyjzheng/PyData)
 
 Hackathons:
+- [HackPrinceton](https://devpost.com/software/open4collab-social-media-for-developers) ( Best Use of @ Company)
 - [University of Toronto Hacks](https://devpost.com/software/stegano-end-to-end-steganlaysis-tool) (Fifth place, 1517 Fund Venture Capital Grantee)
 - [Sigmoid Hacks](https://devpost.com/software/pulse-it) (First place, best neural networks from scratch)
 - [University of British Columbia HackCamp](https://devpost.com/software/drought-watch) (Teck Resources best enviromental hack)
