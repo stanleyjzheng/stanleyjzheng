@@ -27,8 +27,6 @@ Hackathons (Chronological order):
 
 The highlights of my Kaggle competitions [can be found here](https://gist.github.com/stanleyjzheng/96f3455c2ae8842b90f175fc34bd63e6)
 
-### I'm migrating to GitLab: https://gitlab.com/stanleyzheng
-
 ## Get in touch
 
 [![](https://img.shields.io/badge/-Email-D44638?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:stanleyjzheng@gmail.com)
