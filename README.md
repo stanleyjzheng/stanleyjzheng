@@ -12,16 +12,16 @@
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=fff)
 
-I am an open-source enthusiast and an aspiring machine learning engineer/data scientist. While at school, I enjoy learning about topics that machine learning can be applied to in a meaningful way. 
+I am an open-source enthusiast and an aspiring machine learning engineer/data scientist. While at school, I enjoy learning about topics that machine learning can be applied to in a meaningful way. I'm currently a Software Developer Intern at Kings Distributed Systems.
 
-Outside of school, I enjoy participating in Kaggle competitions, hackathons, and learning more about machine learning through MOOC's and conferences.
+In my free time, I enjoy participating in Kaggle competitions, hackathons, and learning more about machine learning through MOOC's and conferences.
 
 [Here](https://www.youtube.com/watch?v=c8uWUOSGYUI) is my talk at PyData Boston-Cambridge and its accompanying [code](https://github.com/stanleyjzheng/PyData)
 
 Hackathons (Chronological order):
 - [HackPrinceton](https://devpost.com/software/open4collab-social-media-for-developers), Best Use of @ Company
 - [University of Toronto Hacks](https://devpost.com/software/stegano-end-to-end-steganlaysis-tool), Fifth place, 1517 Fund Venture Capital Grantee
-- [Sigmoid Hacks](https://devpost.com/software/pulse-it), First place, best neural networks from scratch
+- [Sigmoid Hacks](https://devpost.com/software/pulse-it), First place + best neural networks from scratch
 - [University of British Columbia HackCamp](https://devpost.com/software/drought-watch), Teck Resources best enviromental hack
 - [Ignitionhacks](https://devpost.com/software/project-sigma-submission-nlp), First place overall
 
