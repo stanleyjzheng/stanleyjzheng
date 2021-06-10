@@ -4,8 +4,6 @@
 
 ## Stanley Zheng
 
-*Don't give up on what you have until it's too late*
-
 ![](https://komarev.com/ghpvc/?username=stanleyjzheng)
 ![](https://img.shields.io/badge/-Python-165caa?style=flat-square&logo=Python&logoColor=fff)
 
