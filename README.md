@@ -20,7 +20,7 @@ The highlights of my Kaggle competitions and hackathons can be found [here](http
 
 ## Get in touch
 
-[![](https://img.shields.io/badge/-Email-D44638?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)](mailto:stanleyjzheng@gmail.com)
+[![](https://img.shields.io/badge/-Email-D44638?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)](mailto:me@stanleyzheng.ca)
 [![](https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/stanleyjzheng/)
 [![](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=fff)](https://www.kaggle.com/stanleyjzheng)
 [![](https://img.shields.io/badge/-Devpost-003e54?style=flat-square&logo=Devpost&logoColor=fff)](https://devpost.com/StanleyjZheng)
