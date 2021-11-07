@@ -10,10 +10,6 @@
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=fff)
 
-I am an open-source enthusiast and software developer intern at Kings Distributed Systems. 
-
-In my free time, I enjoy participating in Kaggle competitions, hackathons, and learning more about machine learning through MOOC's and conferences.
-
 [Here](https://www.youtube.com/watch?v=c8uWUOSGYUI) is a recording of my talk at PyData Boston-Cambridge and its accompanying [code](https://github.com/stanleyjzheng/PyData)
 
 The highlights of my Kaggle competitions and hackathons can be found [here](https://gist.github.com/stanleyjzheng/96f3455c2ae8842b90f175fc34bd63e6)
