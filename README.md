@@ -14,6 +14,8 @@
 
 The highlights of my Kaggle competitions and hackathons can be found [here](https://gist.github.com/stanleyjzheng/96f3455c2ae8842b90f175fc34bd63e6)
 
+My paper [Chest X-ray abnormalities localization via ensemble of deep convolutional neural networks](https://ieeexplore.ieee.org/document/9598342)
+
 ## Get in touch
 
 [![](https://img.shields.io/badge/-Email-D44638?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)](mailto:me@stanleyzheng.ca)
